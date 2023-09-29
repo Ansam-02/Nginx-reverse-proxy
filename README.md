@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Nginx-reverse-proxy
-=======
 # Nginx-reverse-proxy
 
 This repository contains a Dockerized static website hosted using Nginx as a reverse proxy. The Docker container serves a simple static web page.
