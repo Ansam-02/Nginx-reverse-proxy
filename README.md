@@ -9,7 +9,6 @@ This repository contains a Dockerized static website hosted using Nginx as a rev
 - [Project Structure](#project-structure)
 - [Docker Configuration](#docker-configuration)
 - [Local Development](#local-development)
-- [Deployment](#deployment)
 
 ## Prerequisites
 
