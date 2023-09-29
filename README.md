@@ -44,4 +44,4 @@ The project structure is organized as follows:
 - README.md: This documentation file.
 
 ## Open your favorite browser and navigate to http://localhost:8080 and you should see the above html rendered in your browser window.
-![website result: ](C:\Users\ASUS\Desktop\result)
+![result](https://github.com/Ansam-02/Nginx-reverse-proxy/assets/137777479/64523941-f213-46e8-8de0-b0c741aa7b6e "It work :)")
